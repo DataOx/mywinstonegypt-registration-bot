@@ -20,7 +20,7 @@ The project uses celery to raise and run 50 bots simultaneously. (can be changed
 ![ui](doc/images/ui.jpg)
 *Home page with auto run tasks*
 ![ui_2](doc/images/ui_2.png)
-*Task log info*
+*Task log info*\
 ![ui_2](doc/images/ui_notification.png)
 
 **Deploy**
